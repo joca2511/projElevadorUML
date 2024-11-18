@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Página-1" id="AfX5GNCmMG_u2tzewIPF">
+    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-3" value="Informar&amp;nbsp;&lt;div&gt;código do elevador&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-7" value="Elevador já cadastrado" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-6">
+          <mxGeometry x="-0.0028" y="20" relative="1" as="geometry">
+            <mxPoint x="580" y="440" as="targetPoint" />
+            <mxPoint x="-20" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-9" value="Elevador não cadastrado" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-6" target="OXeLTdzrNhvuse1rRwGX-10">
+          <mxGeometry x="0.0588" y="-20" relative="1" as="geometry">
+            <mxPoint x="180" y="440" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-6" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-8" value="Modificar informações do elevador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-10" value="Cadastrar novo elevador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-12" value="Inserir dados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-15" value="Inserir novos&lt;div&gt;dados&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-18" target="OXeLTdzrNhvuse1rRwGX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-18" value="Confirmar senha&lt;div&gt;Master&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-21" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-19">
+          <mxGeometry x="0.0055" y="20" relative="1" as="geometry">
+            <mxPoint x="380" y="1110" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-22" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OXeLTdzrNhvuse1rRwGX-19" target="OXeLTdzrNhvuse1rRwGX-18">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="980" />
+              <mxPoint x="490" y="820" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-19" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#050505;" vertex="1" parent="1">
+          <mxGeometry x="340" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-23" value="Senha correta?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="965" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OXeLTdzrNhvuse1rRwGX-25" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1110" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
